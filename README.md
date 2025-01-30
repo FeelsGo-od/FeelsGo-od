@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ... (soon)
+- 🌱 I’m currently learning:
+  <br><br/><img src="https://i.pinimg.com/originals/fa/e8/62/fae862fff4f6100d000a1c01c4030db0.jpg" width="100" />
+  <img src="https://static.vecteezy.com/system/resources/previews/014/170/001/original/cyber-security-line-icon-on-white-background-editable-stroke-vector.jpg" width="75" />
 <!--
 **FeelsGo-od/FeelsGo-od** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
