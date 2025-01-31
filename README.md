@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a Full-Stack Scalable Web Application (repo here soon)
+- 🔭 I’m currently working on a AI-Powered Code Assistant (repo here soon)
 - 🌱 I’m currently learning:
   <br><br/><img src="https://i.pinimg.com/originals/fa/e8/62/fae862fff4f6100d000a1c01c4030db0.jpg" width="100" />
   <img src="https://static.vecteezy.com/system/resources/previews/014/170/001/original/cyber-security-line-icon-on-white-background-editable-stroke-vector.jpg" width="75" />
